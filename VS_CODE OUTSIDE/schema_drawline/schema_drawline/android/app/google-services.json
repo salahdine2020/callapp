@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880054728878",
+    "project_id": "gamespace-3e1a9",
+    "storage_bucket": "gamespace-3e1a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880054728878:android:7f428819d385c62754953f",
+        "android_client_info": {
+          "package_name": "com.example.schema_drawline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880054728878-3t6jmhjbj3flhi6u7ipe7igiq8ep76pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC71uF4K8xkTIz2VUB8_uN9AYaA8rGkU7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880054728878-3t6jmhjbj3flhi6u7ipe7igiq8ep76pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
