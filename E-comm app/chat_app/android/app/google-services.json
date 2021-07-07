@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "745908994533",
+    "firebase_url": "https://mailer2-beb83.firebaseio.com",
+    "project_id": "mailer2-beb83",
+    "storage_bucket": "mailer2-beb83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745908994533:android:40600f1b765fdc31f7ef0c",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745908994533-si40nkl61fjfktboids34ep9sf1n28pr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "f33ddef648fb92cbbffee80692f60a49786794bc"
+          }
+        },
+        {
+          "client_id": "745908994533-9ogftlq1ll1gk9r9j3pkctuvhed1qb24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2g-7X9xO8lILaM-oeW4RrRA4FyozA0bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745908994533-9ogftlq1ll1gk9r9j3pkctuvhed1qb24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

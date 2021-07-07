@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110727813606",
+    "project_id": "geekapp-ec7de",
+    "storage_bucket": "geekapp-ec7de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110727813606:android:35ac93f5cbac29cd85de27",
+        "android_client_info": {
+          "package_name": "com.example.geekapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110727813606-siqii555v73bfnhaa86r3m3gen5kkir8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjOiJJ0cCZdqmyX1ffcTs-ZiIWxb6yTdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110727813606-siqii555v73bfnhaa86r3m3gen5kkir8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
